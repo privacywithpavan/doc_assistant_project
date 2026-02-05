@@ -1,1 +1,1 @@
-# doc_assistant_project
+# Doc Assistant Project
